@@ -36,4 +36,4 @@ La naturaleza interactiva de los gráficos Plotly Express permite a los usuarios
 
 ## 🌐 Aplicación en Vivo
 
-Accede a la aplicación desplegada: [[Enlace](https://sprint7-alexisegb.onrender.com)] 
+Accede a la aplicación desplegada: [(https://sprint7-alexisegb.onrender.com)] 
